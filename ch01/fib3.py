@@ -8,5 +8,4 @@ def fib3(n: int) -> int:
 
 if __name__ == "__main__":
     print(fib3(5))
-    print(memo)
     print(fib3(20))
